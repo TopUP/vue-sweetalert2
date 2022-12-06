@@ -19,7 +19,7 @@
     "author": "Aleksey Pivkin @avil13",
     "license": "MIT",
     "dependencies": {
-        "sweetalert2": "8.x"
+        "sweetalert2": "git+https://github.com/TopUP/sweetalert2.git"
     },
     "homepage": "https://avil13.github.io/vue-sweetalert2/",
     "repository": {
